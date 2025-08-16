@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thitikorn Thanomsup</h1>
-<h3 align="center">A developer from Thailand</h3>
+<h3 align="center">A Software Tester from Thailand</h3>
 
-- 🌱 I’m currently learning **Java,Python,NodeJS,React Native**
+- 🌱 I’m currently learning **Python,NodeJS,React,Robot Framework,Cypress,Playwright,Oracle,Mysql,Docker,Jenkins**
 
 - 📫 How to reach me **titikorn04629@hotmail.com**
 
